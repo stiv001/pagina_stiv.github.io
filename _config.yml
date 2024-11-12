@@ -22,7 +22,7 @@ repository               : "stiv001/pagina_stiv.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Mi_pagina_web/pagina_stiv.github.io/images/stiv_profile.jpg"
+  avatar           : "images/stiv_profile.jpg"
   name             : "Stiv Quishpe"
   pronouns         : # example: "she/her"  
   bio              : "Informacion"
