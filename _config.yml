@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Stiv's Oficial Site"
 title_separator          : "-"
-name                     : "Stiv Quishpe"
-description              : "personal description"
+name                     : &name "Stiv Quishpe"
+description              : &description "personal description"
 url                      : "https://stiv001.github.io"
  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/pagina_stiv.github.io" 
@@ -22,7 +22,7 @@ repository               : "stiv001/pagina_stiv.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pagina_stiv.github.io/images/stiv_profile.jpg"
+  avatar           : "stiv_profile.jpg"
   name             : "Stiv Quishpe"
   pronouns         : # example: "she/her"  
   bio              : "Informacion"
