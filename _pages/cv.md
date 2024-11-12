@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+!pagina_stiv.github.io/images/stiv_profile.jpg
+
 ## Educación
 * Estudiante de Ingeniería en Computación, Escuela Politécnica Nacional, Ecuador (en curso, cuarto semestre)
 * Cursos especializados en Ciberseguridad y Desarrollo Web
