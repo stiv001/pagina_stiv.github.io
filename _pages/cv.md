@@ -9,56 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Educación
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Estudiante de Ingeniería en Computación, Escuela Politécnica Nacional, Ecuador (en curso, cuarto semestre)
+* Cursos especializados en Ciberseguridad y Desarrollo Web
 
-Work experience
+## Experiencia Laboral
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Proyectos Personales**
+  * Desarrollo de un gestor de colegio en Java, que incluye funcionalidades para gestionar datos de estudiantes, profesores y asignaturas.
+  * Creación de herramientas en Python para resolver problemas y automatizar tareas, incluyendo gráficos de funciones.
+  * Programa en MIPS Assembly que compara algoritmos y calcula su tiempo de ejecución.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Habilidades
+======
+* **Lenguajes de Programación**: Java, Python, C++
+* **Bibliotecas**: Pandas, NumPy
+* **Intereses**: Ciberseguridad, Desarrollo de Software, Inteligencia Artificial, Ciencia de Datos, Tecnologías Emergentes
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+## Proyectos Destacados
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Gestor de un colegio**: Proyecto inicial en Java que gestiona datos académicos.
+* **Talleres y prácticas en Python**: Resolución de problemas y creación de scripts útiles.
+* **Código en ensamblador MIPS**: Comparación de algoritmos para evaluar eficiencia.
 
-Publications
+## Contacto
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Si deseas ponerte en contacto conmigo, aquí tienes varias formas de hacerlo:
+
+- **Correo Electrónico**: Puedes enviarme un [correo](stalynquishpe22@gmail.com). Estoy siempre abierto a preguntas y colaboraciones.
+- **LinkedIn**: Conéctate conmigo en mi perfil de [LinkedIn](www.linkedin.com/in/stalyn-quishpe-4a5179283) para ver más sobre mi experiencia y proyectos.
+- **GitHub**: Visita mi perfil en [GitHub](https://github.com/stiv001) para ver mis proyectos y contribuciones.
