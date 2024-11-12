@@ -10,31 +10,26 @@ redirect_from:
 {% include base_path %}
 
 ## Educación
-======
 * Estudiante de Ingeniería en Computación, Escuela Politécnica Nacional, Ecuador (en curso, cuarto semestre)
 * Cursos especializados en Ciberseguridad y Desarrollo Web
 
-## Experiencia Laboral
-======
+## Experiencia Laboral 
 * **Proyectos Personales**
   * Desarrollo de un gestor de colegio en Java, que incluye funcionalidades para gestionar datos de estudiantes, profesores y asignaturas.
   * Creación de herramientas en Python para resolver problemas y automatizar tareas, incluyendo gráficos de funciones.
   * Programa en MIPS Assembly que compara algoritmos y calcula su tiempo de ejecución.
 
 ## Habilidades
-======
 * **Lenguajes de Programación**: Java, Python, C++
 * **Bibliotecas**: Pandas, NumPy
 * **Intereses**: Ciberseguridad, Desarrollo de Software, Inteligencia Artificial, Ciencia de Datos, Tecnologías Emergentes
 
 ## Proyectos Destacados
-======
 * **Gestor de un colegio**: Proyecto inicial en Java que gestiona datos académicos.
 * **Talleres y prácticas en Python**: Resolución de problemas y creación de scripts útiles.
 * **Código en ensamblador MIPS**: Comparación de algoritmos para evaluar eficiencia.
 
 ## Contacto
-======
 Si deseas ponerte en contacto conmigo, aquí tienes varias formas de hacerlo:
 
 - **Correo Electrónico**: Puedes enviarme un [correo](stalynquishpe22@gmail.com). Estoy siempre abierto a preguntas y colaboraciones.
